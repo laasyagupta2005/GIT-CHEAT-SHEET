@@ -14,6 +14,19 @@ This way, different members of the team can copy it locally and everyone has a c
 
 ## GIT COMMANDS
 
+### GIT BASICS
+
+| Command | Description |
+| - | - |
+| `git init`              | initialize a Git repo |
+| `git add filename_here` | adds a file in the staging area |
+| `git add .`| adds all files in the staging area |
+| `git status`| List which files are staged, unstaged, and untracked. |
+| `git clone <repo>`| Clone repo located at <repo> onto local machine. |
+| `git commit -m "<message>"`| commit changes with a message. |
+| `git log`| Display the entire commit history using the default format. |
+| `git diff`| Show unstaged changes between your index and working directory. |
+
 ### GIT CONFIG
 
 | Command | Description |
