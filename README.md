@@ -26,6 +26,9 @@ This way, different members of the team can copy it locally and everyone has a c
 | `git commit -m "<message>"`| commit changes with a message. |
 | `git log`| Display the entire commit history using the default format. |
 | `git diff`| Show unstaged changes between your index and working directory. |
+| `git branch`| List all of the branches in your repo. |
+| `git branch <branch-name>`| Create a new branch with the name 'branch-name'. |
+| `git checkout <branch>`| Check out to an existing branch named 'branch' |
 
 ### GIT CONFIG
 
