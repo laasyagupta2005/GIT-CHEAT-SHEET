@@ -31,6 +31,8 @@ This way, different members of the team can copy it locally and everyone has a c
 | `git checkout <branch>`| Check out to an existing branch named 'branch' |
 | `git remote add <name> <url>`| Create a new connection to a remote repo. After adding a remote, you can use 'name' as a shortcut for 'url' in other commands. |
 | `git push <remote> <branch>`| Pushes the current branch to the specified remote |
+| `git pull <remote> <branch>`| Fetches and merges changes from specified remote and branch into local |
+| `git fetch <remote> <branch>`| Fetches a specific 'branch' from the repo. Leave off 'branch' to fetch all remote refs. |
 
 ### GIT CONFIG
 
