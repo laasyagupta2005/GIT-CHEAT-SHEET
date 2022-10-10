@@ -29,6 +29,8 @@ This way, different members of the team can copy it locally and everyone has a c
 | `git branch`| List all of the branches in your repo. |
 | `git branch <branch-name>`| Create a new branch with the name 'branch-name'. |
 | `git checkout <branch>`| Check out to an existing branch named 'branch' |
+| `git remote add <name> <url>`| Create a new connection to a remote repo. After adding a remote, you can use 'name' as a shortcut for 'url' in other commands. |
+| `git push <remote> <branch>`| Pushes the current branch to the specified remote |
 
 ### GIT CONFIG
 
